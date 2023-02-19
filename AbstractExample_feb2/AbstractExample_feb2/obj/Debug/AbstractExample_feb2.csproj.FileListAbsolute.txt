@@ -1,0 +1,8 @@
+C:\Users\AY489ME\source\repos\AbstractExample_feb2\AbstractExample_feb2\bin\Debug\AbstractExample_feb2.exe.config
+C:\Users\AY489ME\source\repos\AbstractExample_feb2\AbstractExample_feb2\bin\Debug\AbstractExample_feb2.exe
+C:\Users\AY489ME\source\repos\AbstractExample_feb2\AbstractExample_feb2\bin\Debug\AbstractExample_feb2.pdb
+C:\Users\AY489ME\source\repos\AbstractExample_feb2\AbstractExample_feb2\obj\Debug\AbstractExample_feb2.csproj.AssemblyReference.cache
+C:\Users\AY489ME\source\repos\AbstractExample_feb2\AbstractExample_feb2\obj\Debug\AbstractExample_feb2.csproj.SuggestedBindingRedirects.cache
+C:\Users\AY489ME\source\repos\AbstractExample_feb2\AbstractExample_feb2\obj\Debug\AbstractExample_feb2.csproj.CoreCompileInputs.cache
+C:\Users\AY489ME\source\repos\AbstractExample_feb2\AbstractExample_feb2\obj\Debug\AbstractExample_feb2.exe
+C:\Users\AY489ME\source\repos\AbstractExample_feb2\AbstractExample_feb2\obj\Debug\AbstractExample_feb2.pdb
