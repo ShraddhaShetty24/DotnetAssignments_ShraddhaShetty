@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoNumbers_Feb2", "AddTwoNumbers_Feb2\AddTwoNumbers_Feb2.csproj", "{164502E4-F0EC-4B54-8AB0-03500233927E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{164502E4-F0EC-4B54-8AB0-03500233927E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164502E4-F0EC-4B54-8AB0-03500233927E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164502E4-F0EC-4B54-8AB0-03500233927E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164502E4-F0EC-4B54-8AB0-03500233927E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AE798CE-C51C-4818-8464-56428AD6A992}
+	EndGlobalSection
+EndGlobal

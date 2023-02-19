@@ -1,0 +1,8 @@
+C:\Users\AY489ME\source\repos\CompoundInterest_Feb2\CompoundInterest_Feb2\bin\Debug\CompoundInterest_Feb2.exe.config
+C:\Users\AY489ME\source\repos\CompoundInterest_Feb2\CompoundInterest_Feb2\bin\Debug\CompoundInterest_Feb2.exe
+C:\Users\AY489ME\source\repos\CompoundInterest_Feb2\CompoundInterest_Feb2\bin\Debug\CompoundInterest_Feb2.pdb
+C:\Users\AY489ME\source\repos\CompoundInterest_Feb2\CompoundInterest_Feb2\obj\Debug\CompoundInterest_Feb2.csproj.AssemblyReference.cache
+C:\Users\AY489ME\source\repos\CompoundInterest_Feb2\CompoundInterest_Feb2\obj\Debug\CompoundInterest_Feb2.csproj.SuggestedBindingRedirects.cache
+C:\Users\AY489ME\source\repos\CompoundInterest_Feb2\CompoundInterest_Feb2\obj\Debug\CompoundInterest_Feb2.csproj.CoreCompileInputs.cache
+C:\Users\AY489ME\source\repos\CompoundInterest_Feb2\CompoundInterest_Feb2\obj\Debug\CompoundInterest_Feb2.exe
+C:\Users\AY489ME\source\repos\CompoundInterest_Feb2\CompoundInterest_Feb2\obj\Debug\CompoundInterest_Feb2.pdb

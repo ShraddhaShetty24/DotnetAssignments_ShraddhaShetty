@@ -1,0 +1,8 @@
+C:\Users\AY489ME\source\repos\Constructors_feb3\Constructors_feb3\bin\Debug\Constructors_feb3.exe.config
+C:\Users\AY489ME\source\repos\Constructors_feb3\Constructors_feb3\bin\Debug\Constructors_feb3.exe
+C:\Users\AY489ME\source\repos\Constructors_feb3\Constructors_feb3\bin\Debug\Constructors_feb3.pdb
+C:\Users\AY489ME\source\repos\Constructors_feb3\Constructors_feb3\obj\Debug\Constructors_feb3.csproj.AssemblyReference.cache
+C:\Users\AY489ME\source\repos\Constructors_feb3\Constructors_feb3\obj\Debug\Constructors_feb3.csproj.SuggestedBindingRedirects.cache
+C:\Users\AY489ME\source\repos\Constructors_feb3\Constructors_feb3\obj\Debug\Constructors_feb3.csproj.CoreCompileInputs.cache
+C:\Users\AY489ME\source\repos\Constructors_feb3\Constructors_feb3\obj\Debug\Constructors_feb3.exe
+C:\Users\AY489ME\source\repos\Constructors_feb3\Constructors_feb3\obj\Debug\Constructors_feb3.pdb
