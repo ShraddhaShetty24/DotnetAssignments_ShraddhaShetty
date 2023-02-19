@@ -1,0 +1,8 @@
+C:\Users\AY489ME\source\repos\GenericsExample_Feb8\GenericsExample_Feb8\bin\Debug\GenericsExample_Feb8.exe.config
+C:\Users\AY489ME\source\repos\GenericsExample_Feb8\GenericsExample_Feb8\bin\Debug\GenericsExample_Feb8.exe
+C:\Users\AY489ME\source\repos\GenericsExample_Feb8\GenericsExample_Feb8\bin\Debug\GenericsExample_Feb8.pdb
+C:\Users\AY489ME\source\repos\GenericsExample_Feb8\GenericsExample_Feb8\obj\Debug\GenericsExample_Feb8.csproj.AssemblyReference.cache
+C:\Users\AY489ME\source\repos\GenericsExample_Feb8\GenericsExample_Feb8\obj\Debug\GenericsExample_Feb8.csproj.SuggestedBindingRedirects.cache
+C:\Users\AY489ME\source\repos\GenericsExample_Feb8\GenericsExample_Feb8\obj\Debug\GenericsExample_Feb8.csproj.CoreCompileInputs.cache
+C:\Users\AY489ME\source\repos\GenericsExample_Feb8\GenericsExample_Feb8\obj\Debug\GenericsExample_Feb8.exe
+C:\Users\AY489ME\source\repos\GenericsExample_Feb8\GenericsExample_Feb8\obj\Debug\GenericsExample_Feb8.pdb
